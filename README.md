@@ -7,7 +7,7 @@ Follow these simple steps:
  1: Open the following link in the browser
   http://mobile.mi.com/in/events/2ndanniversary/playgame/
   
- 2: Goto Level 50. Add DONT PLAY. Wait till REPLAY screen appears.
+ 2: Goto Level 50 or any level you want to start. Add DONT PLAY. Wait till REPLAY screen appears.
  
  3: Press F12 or Ctrl+Shift+I or Right-Click on scereen and Select Inspect.
  
